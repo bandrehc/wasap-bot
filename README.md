@@ -1,4 +1,4 @@
-# WhatsApp Bot - Automated Message Sender
+# Wasap Bot - Automated Message Sender
 
 Automated WhatsApp message sender using Selenium WebDriver (SPANISH VERSION). Send personalized messages to multiple contacts from a CSV file with customizable message templates.
 
@@ -261,5 +261,6 @@ If you encounter any issues or have questions:
 - Review the troubleshooting section
 
 ---
+
 
 **Disclaimer**: This is an unofficial tool and is not affiliated with WhatsApp or Meta Platforms, Inc.
